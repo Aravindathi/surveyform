@@ -1,0 +1,23 @@
+.container {
+    margin: 1px;
+    padding: 1%;
+    padding-left: 0px;
+    padding background-color: white;
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.table {
+    text-align: left;
+}
+
+textarea {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+span {
+    color: red;
+}
